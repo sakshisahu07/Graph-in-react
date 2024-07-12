@@ -5,6 +5,7 @@ import Insert from "./pages/Insert"
 import Display from "./pages/Display"
 import Search from "./pages/Search"
 import Update from "./pages/Update"
+import Contact from "./pages/Contact"
 const App=()=>{
   return(
     <>

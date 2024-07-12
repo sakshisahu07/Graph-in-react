@@ -1,0 +1,63 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "rollno": 121,
+      "name": "Sakshi",
+      "city": "Bhopal",
+      "fees": 39999
+    },
+    {
+      "id": "2",
+      "rollno": 122,
+      "name": "Astha",
+      "city": "Sagar",
+      "fees": 39999
+    },
+    {
+      "id": "3",
+      "rollno": 123,
+      "name": "Shraddha",
+      "city": "indore",
+      "fees": 39999
+    },
+    {
+      "id": "4",
+      "rollno": 124,
+      "name": "Riya",
+      "city": "Delhi",
+      "fees": 49999
+    },
+    {
+      "id": "5",
+      "rollno": 125,
+      "name": "Sammy",
+      "city": "indore",
+      "fees": 39400
+    },
+    {
+      "id": "52d4",
+      "rollno": "1",
+      "name": "Sakshi",
+      "city": "Bhopal",
+      "fees": "40000"
+    },
+    {
+      "id": "8521",
+      "rollno": "127",
+      "name": "Akansha",
+      "city": "Bihar",
+      "fees": "25900"
+    },
+    {
+      "id": "ed62"
+    },
+    {
+      "id": "b27c",
+      "rollno": "127",
+      "name": "Akansha",
+      "city": "Bihar",
+      "fees": "25900"
+    }
+  ]
+}

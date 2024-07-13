@@ -8,13 +8,6 @@
       "fees": 39999
     },
     {
-      "id": "2",
-      "rollno": 122,
-      "name": "Astha",
-      "city": "Sagar",
-      "fees": 39999
-    },
-    {
       "id": "3",
       "rollno": 123,
       "name": "Shraddha",
@@ -50,14 +43,18 @@
       "fees": "25900"
     },
     {
-      "id": "ed62"
-    },
-    {
       "id": "b27c",
       "rollno": "127",
       "name": "Akansha",
       "city": "Bihar",
       "fees": "25900"
+    },
+    {
+      "id": "8d20",
+      "rollno": "128",
+      "name": "Shreya",
+      "city": "Nagpur",
+      "fees": "75000"
     }
   ]
 }

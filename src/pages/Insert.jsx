@@ -18,7 +18,10 @@ const handleclick=()=>{
   let url="http://localhost:3000/student"
   axios.post(url,input).then((res)=>{
     alert("posted")
-    setinput({})
+    setinput({
+      rollno:"",
+      
+    })
   }).catch((err)=>{
     console.log("error",err)
   })

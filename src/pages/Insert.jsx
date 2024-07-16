@@ -20,6 +20,9 @@ const handleclick=()=>{
     alert("posted")
     setinput({
       rollno:"",
+      name:"",
+      city:"",
+      fees:"",
       
     })
   }).catch((err)=>{
@@ -58,3 +61,70 @@ const handleclick=()=>{
     ) 
   }
   export default Insert;
+
+
+
+
+
+// import Button from 'react-bootstrap/Button';
+// import Form from 'react-bootstrap/Form';
+// import { useState } from 'react';
+// import axios from 'axios';
+
+//   const Insert=()=>{
+//     const[input,setInput]=useState("");
+//     const handlechange=(e)=>{
+//       let name=e.target.name;
+//       let value=e.target.value;
+//       setInput(values=>({...values, [name]:value}))
+
+//     }
+//     const handleclick=()=>{
+//       let url="http://localhost:3000/student";
+//       axios.get(url,input).then((res)=>{
+//         alert("posted")
+//         setInput({
+//           rollno:"",
+//           name:"",
+//           city:"",
+//           fees:"",
+
+//         })
+//       }).catch((err)=>{
+//         console.log("error",err)
+//       })
+//     }
+
+//     return(
+//       <>
+//       <h1>insert page</h1>
+//       <Form>
+//       <Form.Group className="mb-3" controlId="formBasicEmail">
+//         <Form.Label>Email Rollno</Form.Label>
+//         <Form.Control type="text" name='rollno' value={input.rollno} placeholder="Enter rollono" onChange={handlechange} />
+        
+//       </Form.Group>
+
+//       <Form.Group className="mb-3" controlId="formBasicPassword">
+//         <Form.Label>Enter Name</Form.Label>
+//         <Form.Control type="text" name='name'value={input.name} placeholder="Enter name" onChange={handlechange}/>
+//       </Form.Group>
+//       <Form.Group className="mb-3" controlId="formBasicEmail">
+//         <Form.Label>Enter City</Form.Label>
+//         <Form.Control type="text" name='city' value={input.city} placeholder="Enter city"onChange={handlechange} />
+        
+//       </Form.Group>
+
+//       <Form.Group className="mb-3" controlId="formBasicPassword">
+//         <Form.Label>Enter fees</Form.Label>
+//         <Form.Control type="text"name='fees'value={input.fees} placeholder="Enter fees"onChange={handlechange} />
+//       </Form.Group>
+      
+//       <Button variant="primary" type="submit" onClick={handleclick}>
+//         Submit
+//       </Button>
+//     </Form>
+//       </>
+//     )
+//   }
+// export default Insert;

@@ -1,30 +1,9 @@
 {
   "student": [
     {
-      "id": "1",
-      "rollno": 121,
-      "name": "Sakshi",
-      "city": "Bhopal",
-      "fees": 39999
-    },
-    {
-      "id": "3",
-      "rollno": 123,
-      "name": "Shraddha",
-      "city": "indore",
-      "fees": 39999
-    },
-    {
-      "id": "4",
-      "rollno": 124,
-      "name": "Riya",
-      "city": "Delhi",
-      "fees": 49999
-    },
-    {
       "id": "5",
       "rollno": 125,
-      "name": "Sammy",
+      "name": "Shreya",
       "city": "indore",
       "fees": 39400
     },
@@ -36,25 +15,25 @@
       "fees": "40000"
     },
     {
-      "id": "8521",
-      "rollno": "127",
-      "name": "Akansha",
-      "city": "Bihar",
-      "fees": "25900"
+      "id": "7f31",
+      "rollno": "121",
+      "name": "sakshi",
+      "city": "Satna",
+      "fees": "707000"
     },
     {
-      "id": "b27c",
-      "rollno": "127",
-      "name": "Akansha",
-      "city": "Bihar",
-      "fees": "25900"
+      "id": "9308",
+      "rollno": "3",
+      "name": "sakshi",
+      "city": "Satna",
+      "fees": "707000"
     },
     {
-      "id": "8d20",
-      "rollno": "128",
-      "name": "Shreya",
-      "city": "Nagpur",
-      "fees": "75000"
+      "id": "71ca",
+      "rollno": "12345",
+      "name": "sakshi",
+      "city": "Satna",
+      "fees": "707000"
     }
   ]
 }
